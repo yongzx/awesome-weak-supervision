@@ -23,7 +23,9 @@ Zhou, Z. H. (2018). [A brief introduction to weakly supervised learning.](https:
 ### Blogs
 
 ### Workshops / Tutorials
-
+<details>
+<summary><a href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/">[ECCV 2020 Virtual Tutorial on New Frontiers for Learning with Limited Labels or Data]</a></summary>
+</details>
 
 ## Papers
 
