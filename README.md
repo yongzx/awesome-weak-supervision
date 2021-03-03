@@ -8,26 +8,24 @@ Here's a curated list of deep learning resources for weak supervision, or weak s
 
 ## Contributing
 
-## Tutorials
+## Main
 ### Books
 
 ### Surveys and Overview
 Zhou, Z. H. (2018). [A brief introduction to weakly supervised learning.](https://academic.oup.com/nsr/article/5/1/44/4093912?login=true) National science review, 5(1), 44-53.
 
-### Courses
+### Courses / Talks / Lectures / Tutorials
+<details>
+<summary><a href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/">ECCV 2020 Virtual Tutorial on New Frontiers for Learning with Limited Labels or Data</a></summary>
+</details>
 
-### Talks
-
-### Thesis
 
 ### Blogs
 
-### Workshops / Tutorials
-<details>
-<summary><a href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/">[ECCV 2020 Virtual Tutorial on New Frontiers for Learning with Limited Labels or Data]</a></summary>
-</details>
+
 
 ## Papers
+
 
 
 ## Software
